@@ -1,6 +1,6 @@
 ﻿### Introduction
 
-CopyAndDelete Application used to copy and delete folders, files.
+CopyAndDelete Application can be used to copy and delete folders, files.
 
 ### Problem Statement
 
